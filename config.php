@@ -1,5 +1,5 @@
 <?php
-$dbHost="0.0.0.0"; //shouldn't have too change this but possible you might have too change it too 127.0.0.1 due too mysql security changes.
+$dbHost="localhost"; //shouldn't have too change this but possible you might have too change it too 127.0.0.1 due too mysql security changes.
 $dbName="iplogger"; //make a database named this value
 $dbUser="root"; //Database username Change this
 $dbPassword="pass"; //Database password Change this
