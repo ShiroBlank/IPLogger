@@ -5,3 +5,6 @@
 - MySql
 - Adminlte bootstrap
 - PHP
+
+## Setup:
+Import dump.sql into your MySql server too create the needed tables, and edit config.php with your own values. Very simple.
